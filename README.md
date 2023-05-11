@@ -1,6 +1,11 @@
 # Weather-Prediction-Using-RNN
 This repository contains the code and resources for a weather prediction model developed using Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) architecture. The model is trained on a large dataset of weather data from Kharagpur and is capable of predicting the weather conditions for the next 15 days.
-# Dataset
+
+
+![Screenshot (731)](https://github.com/Pallabpal/Weather-Prediction-Using-RNN/assets/122145541/c8659089-4675-4aee-90bc-fae1bbbb1a68)
+
+
+# Dataset!
 Weather data is kept by numerous organisations, including the National Weather Service,
 Indian Space Research Organization, Indian Meteorological Department, and National
 Aeronautics and Space Administration (NASA). Storing weather data is important for
@@ -34,5 +39,3 @@ To use this weather prediction model, follow these steps:
 5. Once the model is trained, you can use it to make weather predictions by providing the current weather conditions as input.
 # Contributing
 Contributions to this weather prediction model are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. Your contributions can help enhance the accuracy and performance of the model.
-# Acknowledgement
-We would like to acknowledge the developers and researchers whose work has contributed to the field of deep learning and weather prediction. Their groundbreaking research and open-source contributions have made projects like this possible.
