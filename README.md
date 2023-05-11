@@ -5,7 +5,7 @@ This repository contains the code and resources for a weather prediction model d
 ![Screenshot (731)](https://github.com/Pallabpal/Weather-Prediction-Using-RNN/assets/122145541/c8659089-4675-4aee-90bc-fae1bbbb1a68)
 
 
-# Dataset!
+# Dataset
 Weather data is kept by numerous organisations, including the National Weather Service,
 Indian Space Research Organization, Indian Meteorological Department, and National
 Aeronautics and Space Administration (NASA). Storing weather data is important for
